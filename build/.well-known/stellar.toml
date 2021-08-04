@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+"GCQO5PF5WFB2DI76QF3WYD67UCWCGPJQ5T43XVJ7UPXQT5DQP6R7Q7FV"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="Oil Coin"
+ORG_URL="https://oilcoin.io/"
+ORG_DESCRIPTION="Oil Coin is a global, decentralized Prosumer Energy system featuring a dual token system for convenient and fair exchange of renewable energy between bioenergy companies (prosumers) and users (hosts). "
+ORG_TWITTER="@OilCoinProject"
+ORG_LOGO="https://i.ibb.co/y0dqLR1/shale.jpg"
+ORG_OFFICIAL_EMAIL="oilcoincommunity@gmail.com"
 
 
 [[CURRENCIES]]
-code="EmeraldGem"
-issuer="GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+code="OilCoin"
+issuer="GCQO5PF5WFB2DI76QF3WYD67UCWCGPJQ5T43XVJ7UPXQT5DQP6R7Q7FV"
 anchor_asset="false"
-name="Emerald Gem"
-desc="When it comes to rare and expensive gemstones, most of us immediately think of diamonds, but, in fact, emeralds are more than 20 times rarer than diamonds and, therefore, often command a higher price."
-conditions="1 carat of low-grade emerald can cost as little as $200, while 1 carat of a high-quality gem can fetch up to $18,000. Synthetic emeralds are much cheaper, with even the highest quality costing around $350 for 1 carat."
-image="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
+name="Oil Coin"
+desc="Oil Coin is a global, decentralized Prosumer Energy system featuring a dual token system for convenient and fair exchange of renewable energy between bioenergy companies (prosumers) and users (hosts)."
+conditions="Don't forget to follow us on Twitter where we distribute OilCoin tokens each week"
+image="https://i.ibb.co/y0dqLR1/shale.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#EmeraldGem was issued using the open and inclusive Stellar blockchain network.
+
